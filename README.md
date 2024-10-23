@@ -32,7 +32,7 @@ Avant d'installer et d'exécuter l'application, assurez-vous d'avoir les éléme
 
 1. Clonez ce dépôt sur votre machine locale :
     ```bash
-    git clone https://github.com/votre_nom_utilisateur/voice-assistant-app.git
+    git clone https://github.com/Louisdavid32/voice-assistant-app.git
     ```
 
 2. Accédez au dossier du projet :
